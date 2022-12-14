@@ -1,6 +1,8 @@
 # DIO Bootcamp Inter Javascript
 Repositório Criado para inserir os desafios de códigos realizados no Bootcamp Orange Tech + com foco em Javascript realizado na DIO em parceria com a Inter
 
+![image](https://user-images.githubusercontent.com/24790794/207695058-99af6fe1-58e4-44af-a33d-3847e2bbe235.png)
+
 ## Autor
 
 <a href="https://www.linkedin.com/in/thamyres-magalhaes/">
