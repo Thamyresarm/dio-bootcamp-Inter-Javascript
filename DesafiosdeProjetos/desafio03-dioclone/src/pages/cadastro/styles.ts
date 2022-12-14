@@ -22,9 +22,8 @@ export const Column = styled.div`
 
 export const Row = styled.div`
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
-    align-items: center;
     margin-top: 20px;
 `
 
@@ -49,6 +48,7 @@ export const TitleLogin = styled.p`
     margin-bottom: 8px;
 `
 
+
 export const SubtitleLogin = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
@@ -58,18 +58,16 @@ export const SubtitleLogin = styled.p`
     margin-bottom: 35px;
 `
 
-
-export const EsqueciText  = styled.p`
+export const TermosText = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 19px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 35px;
+`
 
-    color: #E5E044;
-` 
-
-export const CriarText =  styled.p`
+export const LoginText =  styled.span`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
